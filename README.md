@@ -1,7 +1,3 @@
-# Secure Notes
+# Tauri App Template
 
-Secure Notes app using Tauri with SvelteKit.
-
-## Roadmap
-
-- [ ] notes tree
+Tauri app with svelte, shadcn-ui and sqlite.
